@@ -1,0 +1,10 @@
+.techniques__cards {
+    width: 920px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    padding-bottom: 0;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0; 
+}

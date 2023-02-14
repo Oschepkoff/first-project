@@ -1,0 +1,13 @@
+@import url(./__logo-zone/resources__logo-zone.css);
+@import url(./__link/resources__link.css);
+
+.resources {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    justify-content: center;    
+    padding-top: 100px;
+    padding-bottom: 217px;
+    width: 80%;
+}

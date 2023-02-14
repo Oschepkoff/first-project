@@ -1,0 +1,15 @@
+@import url(./__cards/_description/techniques__cards_description.css);
+@import url(./__cards/_image/techniques__cards_image.css);
+@import url(./__cards/_item/techniques__cards_item.css);
+@import url(./__cards/_title/techniques__cards_title.css);
+@import url(./__cards/techniques__cards.css);
+
+.techniques {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    justify-content: center;    
+    padding-top: 100px;
+    width: 80%;
+}

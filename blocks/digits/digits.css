@@ -1,0 +1,10 @@
+.digits {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    justify-content: center;    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 80%;
+}

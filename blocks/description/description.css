@@ -1,0 +1,14 @@
+@import url(./__two-columns/description_two-columns.css);
+@import url(./__two-columns/description__two-columns_brief/description__two-columns_brief.css);
+@import url(./__two-columns/description__two-columns_main-text/description__two-columns_main-text.css);
+@import url(./__two-columns/description__two-columns_paragraph/description__two-columns_paragraph.css);
+@import url(./__two-columns/description__two-columns_span-accent/description__two-columns_span-accent.css);
+
+.description {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 100px;
+    width: 80%;
+}
